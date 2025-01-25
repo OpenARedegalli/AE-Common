@@ -1,0 +1,6 @@
+[submodule "AE-Common-NG"]
+	path = AE-Common-NG
+	url = https://github.com/OpenARedegalli/AE-Common-NG.git
+[submodule "AE-Common-SPRING"]
+	path = AE-Common-SPRING
+	url = https://github.com/OpenARedegalli/AE-Common-SPRING.git
